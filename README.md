@@ -25,5 +25,12 @@ This is a simple **File Explorer** built using **React with Vite** that allows u
 
 ## How to Run:
 1. Clone the repository:  
-   ```sh
    git clone https://github.com/Eswaripalani/FileExplorer.git
+
+After cloning, navigate to the folder:
+
+cd FileExplorer
+
+Then install dependencies and start the project:
+npm install
+npm run dev
