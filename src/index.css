@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(to right, hsl(173, 64%, 74%), #aaf0aa, #e0bf7b, #fda56b);
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+
+.folder {
+  margin: 5px 0;
+  cursor: pointer;
+}
+
+.file {
+  margin: 5px 0 5px 20px;
+}
