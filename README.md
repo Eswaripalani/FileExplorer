@@ -32,6 +32,6 @@ After cloning, navigate to the folder:
 cd FileExplorer
 
 Then install dependencies and start the project:
-npm install
 
+npm install
 npm run dev
