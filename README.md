@@ -34,4 +34,5 @@ cd FileExplorer
 Then install dependencies and start the project:
 
 npm install
+
 npm run dev
